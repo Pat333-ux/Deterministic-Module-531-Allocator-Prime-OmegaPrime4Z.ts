@@ -1,0 +1,2 @@
+# Deterministic-Module-531-Allocator-Prime-OmegaPrime4Z.ts
+A deterministic allocator‑prime‑omega‑prime‑four‑Z module that distributes normalized payloads using omega‑prime‑four‑Z indexed prime partitions, strict type guarantees, immutable state propagation, and reproducible cycle‑aligned omega‑prime‑four‑Z allocation to ensure drift‑free distribution across Beast System 3.0’s deterministic runtime.
